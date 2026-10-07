@@ -1,0 +1,13 @@
+{
+  "modules_du_projet": 14,
+  "paquets": [
+    {
+      "nom": "preact",
+      "modules": 2
+    },
+    {
+      "nom": "vite",
+      "modules": 1
+    }
+  ]
+}

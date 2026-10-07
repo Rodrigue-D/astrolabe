@@ -1,0 +1,65 @@
+[
+  {
+    "nom": "preact",
+    "version": "10.29.8",
+    "licence": "MIT",
+    "retenue": "MIT",
+    "usage": "application (modules embarqués)"
+  },
+  {
+    "nom": "vite",
+    "version": "8.3.3",
+    "licence": "MIT",
+    "retenue": "MIT",
+    "usage": "application (modules embarqués)"
+  },
+  {
+    "nom": "workbox-core",
+    "version": "7.4.1",
+    "licence": "MIT",
+    "retenue": "MIT",
+    "usage": "service worker généré"
+  },
+  {
+    "nom": "workbox-precaching",
+    "version": "7.4.1",
+    "licence": "MIT",
+    "retenue": "MIT",
+    "usage": "service worker généré"
+  },
+  {
+    "nom": "workbox-routing",
+    "version": "7.4.1",
+    "licence": "MIT",
+    "retenue": "MIT",
+    "usage": "service worker généré"
+  },
+  {
+    "nom": "workbox-strategies",
+    "version": "7.4.1",
+    "licence": "MIT",
+    "retenue": "MIT",
+    "usage": "service worker généré"
+  },
+  {
+    "nom": "Barlow Condensed (police « Quai Chiffres »)",
+    "version": null,
+    "licence": "OFL-1.1",
+    "retenue": "OFL-1.1",
+    "usage": "police livrée"
+  },
+  {
+    "nom": "BIZ UDPGothic, sous-ensemble sans kanji (police « Quai Japonais »)",
+    "version": null,
+    "licence": "OFL-1.1",
+    "retenue": "OFL-1.1",
+    "usage": "police livrée"
+  },
+  {
+    "nom": "Overpass (police « Quai Texte »)",
+    "version": null,
+    "licence": "OFL-1.1",
+    "retenue": "OFL-1.1",
+    "usage": "police livrée"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "paquets": [
+    {
+      "nom": "workbox-core"
+    },
+    {
+      "nom": "workbox-precaching"
+    },
+    {
+      "nom": "workbox-routing"
+    },
+    {
+      "nom": "workbox-strategies"
+    }
+  ]
+}
